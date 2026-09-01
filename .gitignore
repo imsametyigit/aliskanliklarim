@@ -1,0 +1,6 @@
+server.log
+*.pyc
+__pycache__/
+.DS_Store
+aliskanliklarim-yedek-*.json
+aliskanliklarim-disa-aktarim-*.csv
